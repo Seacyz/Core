@@ -2,8 +2,8 @@ package com.android.core.manage.image;
 
 import android.widget.ImageView;
 
+import com.android.core.R;
 import com.bumptech.glide.load.resource.bitmap.BitmapTransformation;
-import com.meikoz.core.R;
 
 public class ImageLoader {
 
