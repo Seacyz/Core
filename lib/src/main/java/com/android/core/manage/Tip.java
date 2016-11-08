@@ -3,6 +3,7 @@ package com.android.core.manage;
 import android.widget.Toast;
 
 import com.android.core.MainApplication;
+
 public class Tip {
 
     private Tip() { }
