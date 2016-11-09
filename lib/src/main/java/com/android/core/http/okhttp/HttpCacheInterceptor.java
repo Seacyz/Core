@@ -1,4 +1,4 @@
-package com.android.core.http;
+package com.android.core.http.okhttp;
 
 import com.android.core.MainApplication;
 import com.android.core.manage.NetWorkHelper;

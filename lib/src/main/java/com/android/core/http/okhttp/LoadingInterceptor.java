@@ -1,4 +1,4 @@
-package com.android.core.http;
+package com.android.core.http.okhttp;
 
 import com.android.core.base.UIView;
 
@@ -30,10 +30,12 @@ public class LoadingInterceptor implements Interceptor {
     }
 
     private void hideLoading() {
+        if(uiView.isExist())
         uiView.showLoadingView();
     }
 
     private void showLoading() {
+        if(uiView.isExist())
         uiView.hideLoadingView();
     }
 }

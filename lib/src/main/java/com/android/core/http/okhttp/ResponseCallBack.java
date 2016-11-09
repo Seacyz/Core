@@ -1,4 +1,4 @@
-package com.android.core.http;
+package com.android.core.http.okhttp;
 
 import com.android.core.manage.ContextConfig;
 import com.android.core.manage.Tip;
