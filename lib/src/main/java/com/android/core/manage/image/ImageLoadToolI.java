@@ -1,7 +1,9 @@
 package com.android.core.manage.image;
 
 import android.content.Context;
-
+/**
+ * Created by bug on 2015/12/11.
+ */
 public interface ImageLoadToolI {
 
     void load(Context context, ImageLoader var1);

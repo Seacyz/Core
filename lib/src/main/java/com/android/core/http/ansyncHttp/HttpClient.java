@@ -5,7 +5,9 @@ import com.loopj.android.http.AsyncHttpClient;
 import com.loopj.android.http.AsyncHttpResponseHandler;
 import com.loopj.android.http.RequestParams;
 import java.util.LinkedList;
-
+/**
+ * Created by bug on 2015/09/23.
+ */
 public abstract class HttpClient {
     private static final AsyncHttpClient client = new AsyncHttpClient();
 

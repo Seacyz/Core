@@ -4,7 +4,9 @@ import android.widget.ImageView;
 
 import com.android.core.R;
 import com.bumptech.glide.load.resource.bitmap.BitmapTransformation;
-
+/**
+ * Created by bug on 2015/12/11.
+ */
 public class ImageLoader {
 
     private String url;

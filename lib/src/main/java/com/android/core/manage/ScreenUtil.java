@@ -7,7 +7,9 @@ import android.view.Display;
 import android.view.WindowManager;
 
 import com.android.core.R;
-
+/**
+ * Created by bug on 2015/09/23.
+ */
 public class ScreenUtil {
 
     private static final int[] APPCOMPAT_CHECK_ATTRS = {R.attr.colorPrimary};

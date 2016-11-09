@@ -9,7 +9,9 @@ import com.android.core.manage.log.Logger;
 import com.android.core.model.LogicProxy;
 
 import butterknife.ButterKnife;
-
+/**
+ * Created by bug on 2016/04/08.
+ */
 public abstract class BaseActivity extends AppCompatActivity implements BaseView {
 
     protected BasePresenter mPresenter;

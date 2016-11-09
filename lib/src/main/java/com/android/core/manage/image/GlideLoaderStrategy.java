@@ -4,7 +4,9 @@ import android.content.Context;
 import android.text.TextUtils;
 
 import com.bumptech.glide.Glide;
-
+/**
+ * Created by bug on 2015/09/23.
+ */
 public class GlideLoaderStrategy {
 
     // 加载图片方法

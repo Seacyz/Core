@@ -1,7 +1,7 @@
 package com.android.core.base;
 
 /**
- * Created by bug on 2016/11/8.
+ * Created by bug on 2015/11/8.
  */
 public interface UIView {
     boolean isExist();

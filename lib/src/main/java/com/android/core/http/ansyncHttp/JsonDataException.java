@@ -1,7 +1,7 @@
 package com.android.core.http.ansyncHttp;
 
 /**
- * Created by tiangui on 2016/7/5.
+ * Created by bug on 2015/09/23.
  */
 public class JsonDataException extends RuntimeException {
 

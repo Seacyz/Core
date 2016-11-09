@@ -8,7 +8,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
-
+/**
+ * Created by bug on 2015/11/8.
+ */
 public class ViewHolder {
     private final SparseArray<View> mViews;
     private int mPosition;

@@ -2,7 +2,9 @@ package com.android.core;
 
 import android.app.Application;
 import android.content.Context;
-
+/**
+ * Created by bug on 2015/09/23.
+ */
 public class MainApplication extends Application {
 
     private static MainApplication ourInstance = new MainApplication();

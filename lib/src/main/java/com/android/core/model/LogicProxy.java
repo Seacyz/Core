@@ -8,7 +8,9 @@ import com.android.core.model.annotation.Implement;
 import java.lang.annotation.Annotation;
 import java.util.HashMap;
 import java.util.Map;
-
+/**
+ * Created by bug on 2016/10/20.
+ */
 public class LogicProxy {
     private static final LogicProxy m_instance = new LogicProxy();
 

@@ -7,7 +7,9 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import java.util.List;
-
+/**
+ * Created by bug on 2015/11/8.
+ */
 public abstract class RecyclerAdapter<T> extends RecyclerView.Adapter<RecyclerViewHolder> {
     protected Context mContext;
     protected int mLayoutId;

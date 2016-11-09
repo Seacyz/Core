@@ -22,7 +22,9 @@ import com.android.core.manage.ScreenUtil;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * Created by bug on 2015/10/19.
+ */
 public class TabStripView extends LinearLayout implements View.OnClickListener {
 
     private static final String KEY_CURRENT_TAG = "com.android.core.widget.TabStripViewTag";

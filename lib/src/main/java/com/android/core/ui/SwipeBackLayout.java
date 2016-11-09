@@ -28,7 +28,9 @@ import android.view.ViewGroup;
 import android.webkit.WebView;
 import android.widget.AbsListView;
 import android.widget.ScrollView;
-
+/**
+ * Created by bug on 2015/10/19.
+ */
 public class SwipeBackLayout extends ViewGroup {
 
     private static final String TAG = "SwipeBackLayout";

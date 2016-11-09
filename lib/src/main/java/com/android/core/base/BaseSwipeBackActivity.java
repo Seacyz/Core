@@ -11,7 +11,9 @@ import android.widget.RelativeLayout.LayoutParams;
 import com.android.core.R;
 import com.android.core.ui.SwipeBackLayout;
 
-
+/**
+ * Created by bug on 2016/04/10.
+ */
 public abstract class BaseSwipeBackActivity extends BaseActivity implements SwipeBackLayout.SwipeBackListener {
 
     private SwipeBackLayout swipeBackLayout;

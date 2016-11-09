@@ -9,7 +9,9 @@ import okhttp3.CacheControl;
 import okhttp3.Interceptor;
 import okhttp3.Request;
 import okhttp3.Response;
-
+/**
+ * Created by bug on 2016/06/20.
+ */
 public class HttpCacheInterceptor implements Interceptor {
 
     @Override

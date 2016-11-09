@@ -8,7 +8,7 @@ import retrofit2.Callback;
 import retrofit2.Response;
 
 /**
- * Created by bug on 2015/09/23.
+ * Created by bug on 2016/06/20.
  */
 public abstract class ResponseCallBack<T> implements Callback<T>{
 

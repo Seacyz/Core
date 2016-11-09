@@ -8,7 +8,9 @@ import android.text.TextUtils;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
+/**
+ * Created by bug on 2015/09/23.
+ */
 public class NetWorkHelper {
 
     //没有网络

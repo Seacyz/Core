@@ -9,7 +9,9 @@ import okhttp3.logging.HttpLoggingInterceptor;
 import retrofit2.Retrofit;
 import retrofit2.adapter.rxjava.RxJavaCallAdapterFactory;
 import retrofit2.converter.gson.GsonConverterFactory;
-
+/**
+ * Created by bug on 2016/06/20.
+ */
 public class RestApi {
     private boolean isDebug = false;
     private RestApi() {}

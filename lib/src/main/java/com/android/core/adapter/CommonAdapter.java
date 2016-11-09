@@ -9,7 +9,9 @@ import android.widget.BaseAdapter;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
-
+/**
+ * Created by bug on 2015/11/8.
+ */
 public abstract class CommonAdapter<T> extends BaseAdapter {
     protected LayoutInflater mInflater;
     protected Context mContext;

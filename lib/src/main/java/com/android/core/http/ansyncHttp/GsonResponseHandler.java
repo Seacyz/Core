@@ -10,7 +10,9 @@ import com.google.gson.Gson;
 import com.loopj.android.http.AsyncHttpResponseHandler;
 
 import cz.msebera.android.httpclient.Header;
-
+/**
+ * Created by bug on 2015/09/23.
+ */
 public abstract class GsonResponseHandler<T> extends AsyncHttpResponseHandler {
     private static final String TAG = "GsonResponseHandler";
 
